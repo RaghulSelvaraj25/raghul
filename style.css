@@ -1,0 +1,41 @@
+*{
+    cursor: pointer;
+
+}
+body{
+    width: 100%; height: 100vh;
+    background-image: url(./images/photo\ raghul-Photoroom.png-Photoroom.png);
+    background-repeat: no-repeat;
+    background-position: 56rem;
+    background-size: 29rem;
+    
+}
+h1{
+    text-align: center;
+    color: red;
+    text-transform: capitalize;
+    text-decoration: solid underline 2px blue;
+    text-shadow: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font: bold 3px;
+    letter-spacing: 1px;
+}
+p{
+    text-indent: 30px;
+    font-style: italic;
+
+}
+span{
+    text-indent: 20px;
+    color: white;
+    background-color: black;
+    font: bold 2px;
+    font-size: xx-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    margin-left: 60px;
+    margin-bottom: 50px ;
+}
+div{margin: 0px 0px 10rem 20rem;
+    
+}
+    
